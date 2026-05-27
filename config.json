@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperealidate",
+        "uuid": 21524543,
+        "checksum": "zbwpoy"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
